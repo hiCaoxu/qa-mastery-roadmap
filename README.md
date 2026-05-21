@@ -9,4 +9,4 @@ Focusing on practical automation frameworks, test platform development, and expl
 
 Documenting the roadmap to becoming a senior Test Architect. 
 
-记录迈向高级测试架构师的成长路线图。）
+记录迈向高级测试架构师的成长路线图。
